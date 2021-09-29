@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checks minicart functionality</description>
+   <name>Add to cart (minicart)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3af2f8a5-f942-449e-a9ec-ca35458f9c9b</testCaseGuid>
+</TestCaseEntity>

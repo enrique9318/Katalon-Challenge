@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Adding different sizes of one item to check if they are added correctly</description>
+   <name>Add to cart (different sizes)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e938676c-71b6-4f8d-872b-72241fecb834</testCaseGuid>
+</TestCaseEntity>
